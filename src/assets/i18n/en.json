@@ -1,0 +1,13 @@
+
+{
+    "WELCOME": "Welcome Team Afriway",
+    "WELCOMEMSG": "Welcome back! Please enter your details",
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "REMEMBER": "Rememberpassword",
+    "FORGOT": "Forgot password",
+    "SIGNIN": "Sign in",
+    "SIGNUP": "Sign up",
+    "NO_ACCOUNT": "Don't have an account?"
+
+}

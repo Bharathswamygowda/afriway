@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'variable.scss';
+
+
+h1,h2,h3,h4,h5,h6,p{
+  color: var(--black);
+}
+body{
+  background: #f9f9fb;
+}
+
+.cursor{
+  cursor: pointer;
+}
+
+.icon-size{
+  font-size: 1.3rem;;
+}
+
+.error-msg{
+
+  p{
+    font-size: 0.9rem;
+  }
+
+}
+
+.main-content{
+  margin-top: 80px;
+  transition: .3s ease all;
+  margin-left: 255px;
+}
+
+.card{
+      -webkit-box-shadow: 0 0 20px rgba(115,105,215,.15);
+    -moz-box-shadow: 0 0 20px rgba(115,105,215,.15);
+    box-shadow: 0 0 20px rgba(115,105,215,.15);
+    border: 0;
+    background: #fff;
+}

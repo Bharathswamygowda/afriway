@@ -1,0 +1,24 @@
+h3{
+  i{
+    font-size: 0.8rem;
+  }
+}
+
+.card-body{
+
+  img{
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+  }
+
+}
+
+
+.bg-color{
+  background-color: var(--red);
+
+  p{
+    color: var(--white);
+  }
+}
